@@ -1,0 +1,29 @@
+.calculator {
+  margin-top: 300px;
+}
+.calculator table {
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  background: blue;
+}
+.calculator table tr {
+  background-color: red;
+}
+.calculator table tr td {
+  border: 1px solid gray;
+}
+.calculator table tr td button {
+  width: 100%;
+  height: 100%;
+}
+.calculator table tr td input {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: #8484d5;
+}
+
+/*# sourceMappingURL=home.css.map */
